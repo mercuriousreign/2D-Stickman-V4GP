@@ -2,7 +2,7 @@
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
 
-STILL WIP, but less likely to update (because author sucks at rigging) so feel free to download and/fork to try out.
+STILL WIPPPPPPPP, but less likely to update (because author sucks at rigging) so feel free to download and/fork to try out.
 
 This is a convert to Blender 4.2/modification of the 2D StickMan Rig v3 by [energiesgraphiques](https://blendswap.com/profile/40739) which was originally developed by [LDev](http://www.blendswap.com/user/LDev)
 
